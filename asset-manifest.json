@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-07-phonebook/static/css/main.3d05b80b.css",
+    "main.js": "/goit-react-hw-07-phonebook/static/js/main.d36b2386.js",
+    "static/media/abstract-shapes-and-line-in-nude-pastel-colors-neutral-background-in-minimalist-style-contemporary-illustration-free-vector.jpg": "/goit-react-hw-07-phonebook/static/media/abstract-shapes-and-line-in-nude-pastel-colors-neutral-background-in-minimalist-style-contemporary-illustration-free-vector.99ab7a00583311d21669.jpg",
+    "index.html": "/goit-react-hw-07-phonebook/index.html",
+    "main.3d05b80b.css.map": "/goit-react-hw-07-phonebook/static/css/main.3d05b80b.css.map",
+    "main.d36b2386.js.map": "/goit-react-hw-07-phonebook/static/js/main.d36b2386.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d05b80b.css",
+    "static/js/main.d36b2386.js"
+  ]
+}
